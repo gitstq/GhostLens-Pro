@@ -1,0 +1,3 @@
+# GhostLens-Pro - Zero External Dependencies
+# This project uses only Python standard library modules.
+# No pip install required beyond the standard library.
